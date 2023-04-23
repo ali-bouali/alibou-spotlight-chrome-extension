@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Alibou spotlight",
   "version": "1.0",
   "description": "Display the latest videos from my YouTube channel",
